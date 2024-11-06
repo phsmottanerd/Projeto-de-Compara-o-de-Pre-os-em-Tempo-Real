@@ -12,11 +12,11 @@
 
 ## Ferramentas Utilizadas
 
-- **HTML**: Estrutura básica da página e organização do conteúdo.
-- **CSS**: Estilização e design da interface, tornando-a visualmente agradável e responsiva.
-- **JavaScript**: Responsável pela interatividade, incluindo a busca de produtos e a geração de gráficos.
-- **API Mercado Livre**: A API é usada para buscar produtos e retornar os dados de preços em tempo real.
-- **Chart.js**: Biblioteca JavaScript usada para criar gráficos interativos e dinâmicos.
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) **HTML5**: Estrutura básica da página e organização do conteúdo.
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) **CSS3**: Estilização e design da interface, tornando-a visualmente agradável e responsiva.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) **JavaScript**: Responsável pela interatividade, incluindo a busca de produtos e a geração de gráficos.
+- ![Mercado Livre API](https://img.shields.io/badge/Mercado_Livre-FF8200.svg?style=flat&logo=mercadolivre&logoColor=white) **API Mercado Livre**: A API é usada para buscar produtos e retornar os dados de preços em tempo real.
+- ![Chart.js](https://img.shields.io/badge/Chart.js-%2332B3A1.svg?style=flat&logo=chartjs&logoColor=white) **Chart.js**: Biblioteca JavaScript usada para criar gráficos interativos e dinâmicos.
 
 ## Como Usar
 
